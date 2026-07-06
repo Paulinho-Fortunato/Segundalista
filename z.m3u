@@ -111,6 +111,106 @@ http://nitidez.pro:80/Marcio/123456/286016
 #EXTINF:-1 tvg-id="" tvg-name="FAB Replay" tvg-logo="https://prodesporto.com/wp-content/uploads/2024/09/FAB-eFIBA.jpg" group-title="Desporto",FAB Replay
 http://nitidez.pro:80/Marcio/123456/286007
 
+=====================❖======================== 
+🌈 NEWS PORTUGAL BRASIL
+=====================❖======================== 
 
-#EXTINF:-1 tvg-chno="48" cuid="60" tvg-name="Euronews 🇵🇹" tvg-id="Euronews.pt" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/euronews.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="Noticias",Euronews 🇵🇹
+#EXTINF:-1 tvg-chno="48" cuid="60" tvg-name="Euronews 🇵🇹" tvg-id="Euronews.pt" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/euronews.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",Euronews 🇵🇹
 https://4a5f9ca4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFfRXVyb25ld3NQb3J0dWd1ZXNfSExT/playlist.m3u8?ads.wurl_channel=1171&ads.wurl_name=EuronewsPortugues&ads.coppa=0&ads.device_id=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=7794
+
+#EXTINF:-1 tvg-chno="50" cuid="62" tvg-name="Record News 🇧🇷" tvg-id="RECORDNEWS" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/RecordNew.webp" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",Record News 🇧🇷
+https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8?wowzasessionid=@iprtlk
+https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-dash/recordnews.mpd
+
+#EXTINF:-1 tvg-chno="50" cuid="75" tvg-name="SBT News 🇧🇷" tvg-id="" tvg-logo="https://i.imgur.com/LnApLKd.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",SBT News 🇧🇷
+https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?wowzasessionid=@iprtlk
+
+#EXTINF:-1 tvg-chno="51" cuid="63" tvg-name="CNN Brasil 🇧🇷" tvg-id="CNNBRASIL" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnbr.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Brasil 🇧🇷
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8?wowzasessionid=@iprtlk
+
+#EXTINF:-1 tvg-chno="51" cuid="63" tvg-name="CNN Brasil 🇧🇷" tvg-id="CNNBRASIL" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnbr.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Brasil 🇧🇷
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/97d678e115854c73b5bfaf87c2d43956/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="52" cuid="64" tvg-name="CNN Money 🇧🇷" tvg-id="CNNBRASILMONEY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKV7KXWk2M9BZzGpmLwjLaEu3r0Khx_nsfgQ&s" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Money 🇧🇷
+https://fast-channels.b-cdn.net/9978b7063e297d84e1cd5f21af3a88b1/cnnmoney/aovivo_abr/playlist.m3u8?wowzasessionid=@iprtlk
+
+#EXTINF:-1 tvg-chno="53" cuid="65" tvg-name="New Brasil" tvg-id="New.Brasil.pt" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",New Brasil 🇧🇷
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8?wowzasessionid=@iprtlk
+
+#EXTINF:-1 tvg-chno="54" cuid="67" tvg-name="JP News 🇧🇷" tvg-id="6317ba014d4d040007227f72" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",JP News 🇧🇷
+https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
+
+#EXTINF:-1 tvg-chno="55" cuid="68" tvg-name="BM&C News 🇧🇷" tvg-id="666c9c60a7efd40008f552f0" tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",BM&C News 🇧🇷
+https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
+
+#EXTINF:-1 tvg-chno="56" cuid="69" tvg-name="Times Brasil 🇧🇷" tvg-id="TIMESCNBC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/times-brasil-cnbc-br.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",Times Brasil 🇧🇷
+https://video01.soultv.com.br/timesbrasil/timesbrasil/playlist.m3u8?wowzasessionid=@iprtlk
+https://f593663c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVGltZXNCcmFzaWxsaWNlbmNpYWRvZXhjbHVzaXZvQ05CQ19ITFM/playlist.m3u8?wowzasessionid=@iprtlk=
+
+
+
+=====================🔹========================
+CAZETV & SPORTV PREMIERE 🇧🇷
+=====================🔹========================
+
+#EXTINF:-1 tvg-chno="" cuid="1600" tvg-name="Cazétv" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Cazetv 🇧🇷⚽️🎾🏐
+#EXTGRP:Sports 🇧🇷;Ligue 1⚽️;Bundesliga⚽️
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8?wowzasessionid=@iprtlk
+
+#EXTINF:-1 tvg-chno="" cuid="1312" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_sports_golazo_network._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",CBS Sports Golazo 🇺🇸
+#EXTGRP:All Sports 🌎;Serie A⚽️;champions league⚽️;Europa League⚽️
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8?imafw__fw_app_bundle=%5BAPP+ID%5D&imafw__fw_did=%5Bidtype%3AdeviceID%5D&imafw__fw_is_lat=%5BLIMITED+AD+TRACKING%5D&imafw__fw_us_privacy=%5BCCPA+STRING%5D&imafw__fw_vcid2=%5Bunique_identifier%5D&imafw_csid=%5BSITE+SECTION%5D&is_lat=%5BLIMITED+AD+TRACKING%5D
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd/?X-Plex-Token=xePfG98DiSxDoEPoY91x
+
+#EXTINF:-1 tvg-chno="" cuid="1800" tvg-name="L'Equipe 1 🇫🇷" tvg-id="La.chaine.l’Équipe.fr" tvg-logo="https://logo.m3uassets.com/lequipe.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎;Rugby&NFL🏈🏉",la chaine L'Equipe 🇫🇷
+https://jmp2.uk/stvp-FR200016Y5
+https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1410" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Teledeporte.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",tdp 🇪🇸
+#EXTGRP:All Sports 🌎
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+https://jmp2.uk/stvp-ESBC410000577
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/18bf9987-49ab-4c51-bb94-c568efa51db7?height=auto&width=512&croppingPoint=&version=1&type=png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Goal Zone
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
+
+=====================🔹========================
+BEIN SPORTS 🇹🇷
+=====================🔹========================
+
+#EXTINF:-1 tvg-chno="" cuid="1810" tvg-name="beIN.SPORTS.XTRA" tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-xtra-us.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports Xtra 🇬🇧🇲🇽
+#EXTGRP:All Sports 🌎
+https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785&ads._fw_ifa_type=&ads._fw_did=effb0e3f-354d-4967-bec6-3fe0a91c16ab&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=BeInSportsESP&ads.csid=xumo_web_BeInSportsESP_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=es&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2642&ads.xumo_contentName=BeInSportsESP&ads.xumo_providerId=2642&ads.xumo_providerName=BeInSportsESP&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991785&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+
+
+#EXTINF:-1 tvg-chno="" cuid="1811" tvg-name="beIN.SPORTS.XTRA n" tvg-id="plex.tv.beIN.Sports.Xtra.en.Español.plex" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/beinSportsn.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sport Xtra ñ 🇺🇸🇲🇽
+#EXTGRP:All Sports 🌎
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785
+https://jmp2.uk/stvp-US2700004DX
+https://live-manifest.production-public.tubi.io/live/6cd31e43-d255-4ab4-b065-7f28bd541047/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1818" tvg-name="Bein Sports 1" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports 1 🇹🇷
+#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;champions league⚽️
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+https://biraz.1386503.xyz/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1819" tvg-name="Bein Sports 2" tvg-id="Beinsports.2.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports 2 🇹🇷
+#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;champions league⚽️
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1820" tvg-name="Bein Sports 3" tvg-id="Beinsports.3.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports 3 🇹🇷
+#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Premier League⚽️;champions league⚽️
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1821" tvg-name="Bein Sports 3" tvg-id="Beinsports.3.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports 3 🇹🇷
+#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Premier League⚽️
+https://biraz.1386503.xyz/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1822" tvg-name="Bein Sports 4" tvg-id="Beinsports.4.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports 4 🇹🇷
+#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Ligue 1⚽️
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
