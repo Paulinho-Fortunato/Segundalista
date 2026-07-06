@@ -46,7 +46,7 @@ http://nitidez.pro:80/Marcio/123456/946
 http://nitidez.pro:80/Marcio/123456/928
 #EXTINF:-1 tvg-id="" tvg-name="BANDA TV" tvg-logo="" group-title="Entretenimento",BANDA TV
 http://nitidez.pro:80/Marcio/123456/927
-#EXTINF:-1 tvg-id="" tvg-name="BLAST" tvg-logo="https://canalblast.com/wp-content/uploads/2024/09/cropped-Blast_for_ico.webp" group-title="FILMES E SERIES",BLAST(SEM SOM)
+#EXTINF:-1 tvg-id="" tvg-name="BLAST" tvg-logo="https://canalblast.com/wp-content/uploads/2024/09/cropped-Blast_for_ico.webp" group-title="Filmes",BLAST(SEM SOM)
 http://nitidez.pro:80/Marcio/123456/923
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO HD" tvg-logo="https://telaviva.com.br/wp-content/uploads/2015/05/Globo-Internacional-HD-2015_lettering_vertical_azul.jpg" group-title="Novelas",GLOBO HD (SEM SOM)
 http://nitidez.pro:80/Marcio/123456/918
@@ -58,7 +58,7 @@ http://nitidez.pro:80/Marcio/123456/951
 http://nitidez.pro:80/Marcio/123456/272868
 #EXTINF:-1 tvg-id="" tvg-name="KK TV Angola " tvg-logo="https://tse3.mm.bing.net/th/id/OIP.4YcIRqabuFDHqdQVccNZUQHaF5?w=768&h=612&rs=1&pid=ImgDetMain&o=7&rm=3https://tse3.mm.bing.net/th/id/OIP.4YcIRqabuFDHqdQVccNZUQHaF5?w=768&h=612&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Religioso",KK TV Angola 
 http://nitidez.pro:80/Marcio/123456/286054
-#EXTINF:-1 tvg-id="" tvg-name="STAR MUNDO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis3sZSPlAdcUKxHWiTsgCJto3cGnUTsXTt1BO0B36eiHNYVRWSS3upovCoH8lN7QDyejpWb4BZT6hciRoO2eQaxxTN8akbZqmaf7pHvdVHCG8Hisgd3boBrge6BrD2OwomgvevanGM-KB50L3ZCDCBT-EjFgY27RygOh993GOwlKTWeQ1IiAteK4gCfUpJ/s16000-rw/Starmundoangola.jpg" group-title="FILMES E SERIES",STAR MUNDO
+#EXTINF:-1 tvg-id="" tvg-name="STAR MUNDO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis3sZSPlAdcUKxHWiTsgCJto3cGnUTsXTt1BO0B36eiHNYVRWSS3upovCoH8lN7QDyejpWb4BZT6hciRoO2eQaxxTN8akbZqmaf7pHvdVHCG8Hisgd3boBrge6BrD2OwomgvevanGM-KB50L3ZCDCBT-EjFgY27RygOh993GOwlKTWeQ1IiAteK4gCfUpJ/s16000-rw/Starmundoangola.jpg" group-title="Filmes",STAR MUNDO
 http://nitidez.pro:80/Marcio/123456/943
 #EXTINF:-1 tvg-id="Globo HD.pt" tvg-name="Tv Globo" tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2025/11/23/374138483-tvglobo2021verticalcolorsvg.png" group-title="Novelas",Tv Globo
 http://nitidez.pro:80/Marcio/123456/289645
@@ -68,13 +68,13 @@ http://nitidez.pro:80/Marcio/123456/274285
 http://nitidez.pro:80/Marcio/123456/274283
 #EXTINF:-1 tvg-id="Dizi.pt" tvg-name="DIZI HD " tvg-logo="https://dizi.com/wp-content/uploads/2020/07/cropped-timeless-dizi-channel-without-logo-1.png" group-title="Novelas",DIZI HD 
 http://nitidez.pro:80/Marcio/123456/272861
-#EXTINF:-1 tvg-id="KIX.za" tvg-name="KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="FILMES E SERIES",KIX
+#EXTINF:-1 tvg-id="KIX.za" tvg-name="KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="Filmes",KIX
 http://nitidez.pro:80/Marcio/123456/290185
 #EXTINF:-1 tvg-id="" tvg-name="PANDA KIDS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAtZ0kazUvquxFOFLR44cP4h84CBHV-kQ72A&s" group-title="Animação",PANDA KIDS HD
 http://nitidez.pro:80/Marcio/123456/272864
-#EXTINF:-1 tvg-id="" tvg-name="Angofilmes 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyLfZQ67nvhkumn-bfkCjFsmtBsZ01sNGfxg&s" group-title="FILMES E SERIES",Angofilmes 24/7
+#EXTINF:-1 tvg-id="" tvg-name="Angofilmes 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyLfZQ67nvhkumn-bfkCjFsmtBsZ01sNGfxg&s" group-title="Filmes",Angofilmes 24/7
 http://nitidez.pro:80/Marcio/123456/286017
-#EXTINF:-1 tvg-id="" tvg-name="Windeck 24/7" tvg-logo="https://photos.tf1.fr/220/110/logo-programme-739bb0-c0357d-0@3x.png" group-title="FILMES E SERIES",Windeck 24/7
+#EXTINF:-1 tvg-id="" tvg-name="Windeck 24/7" tvg-logo="https://photos.tf1.fr/220/110/logo-programme-739bb0-c0357d-0@3x.png" group-title="Filmes",Windeck 24/7
 http://nitidez.pro:80/Marcio/123456/272851
 #EXTINF:-1 tvg-id="" tvg-name="Ukombe Tv" tvg-logo="https://i.ibb.co/TDDfMcYG/UKUMBE-TV.png" group-title="Outro",Ukombe Tv
 http://nitidez.pro:80/Marcio/123456/272238
@@ -99,11 +99,11 @@ http://nitidez.pro:80/Marcio/123456/286020
 http://nitidez.pro:80/Marcio/123456/304078
 #EXTINF:-1 tvg-id="" tvg-name="Conversas no Quintal 24/7" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/15240_37055_18074.jpg?amp;w=160" group-title="FILMES E SERIES",Conversas no Quintal 24/7
 http://nitidez.pro:80/Marcio/123456/286019
-#EXTINF:-1 tvg-id="" tvg-name="Gilmario Vemba 24/7" tvg-logo="https://powerlist100.bantumen.com/wp-content/uploads/2022/12/Gilmario-Vemba-.jpg" group-title="FILMES E SERIES",Gilmario Vemba 24/7
+#EXTINF:-1 tvg-id="" tvg-name="Gilmario Vemba 24/7" tvg-logo="https://powerlist100.bantumen.com/wp-content/uploads/2022/12/Gilmario-Vemba-.jpg" group-title="Filmes",Gilmario Vemba 24/7
 http://nitidez.pro:80/Marcio/123456/296444
 #EXTINF:-1 tvg-id="" tvg-name="Menino Justo Decimo 24/7" tvg-logo="https://thumbs.dreamstime.com/b/angola-sign-angola-sign-round-country-logo-flag-angola-vector-illustration-168860316.jpg" group-title="Animação",Menino Justo Decimo 24/7
 http://nitidez.pro:80/Marcio/123456/289491
-#EXTINF:-1 tvg-id="" tvg-name="PAPANGULO 24/7" tvg-logo="https://www.toonpool.com/user/4741/files/papa_e_chico_caxico_537145.jpg" group-title="FILMES E SERIES",PAPANGULO 24/7
+#EXTINF:-1 tvg-id="" tvg-name="PAPANGULO 24/7" tvg-logo="https://www.toonpool.com/user/4741/files/papa_e_chico_caxico_537145.jpg" group-title="Filmes",PAPANGULO 24/7
 http://nitidez.pro:80/Marcio/123456/286018
 #EXTINF:-1 tvg-id="" tvg-name="Na Lente 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYZxykij7Tpe6sVZevsZw55roEi2Emp7yuA&s" group-title="Outro",Na Lente 24/7
 http://nitidez.pro:80/Marcio/123456/289644
