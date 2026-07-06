@@ -1,211 +1,261 @@
-#EXTM3U
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/generate/JVDwzRJDcu.xml.gz,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz,https://github.com/iptv-org/epg/raw/9b331e6cfab19ad2f683b212aa079aac07fe72fe/sites/i.mjh.nz/i.mjh.nz_samsung.channels.xml,https://warningfm.github.io/x1/epg/guide.xml.gz" refresh="3600"
 
-#EXTINF:-1 tvg-id="" tvg-name="TPA 1 HD" tvg-logo="https://visualzink.com/wp-content/uploads/2024/11/TPA16.jpg" group-title="Noticias",TPA 1 HD
+# ============================================
+# 📰 NOTÍCIAS
+# ============================================
+
+#EXTINF:-1 tvg-id="" tvg-name="TPA 1 HD" tvg-logo="https://visualzink.com/wp-content/uploads/2024/11/TPA16.jpg" group-title="📰 Noticias",TPA 1 HD
 http://nitidez.pro:80/Marcio/123456/921
-#EXTINF:-1 tvg-id="" tvg-name="TPA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TPA2_2022.svg" group-title="Noticias",TPA 2 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="TPA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TPA2_2022.svg" group-title="📰 Noticias",TPA 2 HD
 http://nitidez.pro:80/Marcio/123456/920
- 
-#EXTINF:-1 tvg-id="TV Zimbo.pt" tvg-name="TV ZIMBO" tvg-logo="https://i.imgur.com/SFD8CBh.png" group-title="Geral",TV Zimbo
-http://nitidez.pro:80/Marcio/123456/957
 
-#EXTINF:-1 tvg-id="ZAP Viva HD.pt" tvg-name="ZAP VIVA INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" group-title="Entretenimento",ZAP VIVA INTERNACIONAL
-http://nitidez.pro:80/Marcio/123456/324885
-#EXTINF:-1 tvg-id="" tvg-name="GIRASSOL TV" tvg-logo="https://redegirassol.com/abuploads/2023/02/TV-Girassol.png=" group-title="Geral",GIRASSOL TV
-http://nitidez.pro:80/Marcio/123456/945
-#EXTINF:-1 tvg-id="Maningue Magic Kool.mz" tvg-name="KWENDA MAGIC" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.tYHTzi5J5K90wDFumFxHEQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Entretenimento",KWENDA MAGIC
-http://nitidez.pro:80/Marcio/123456/937
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ON" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.VgIqpgkHc5Pr2cxZ9YlZUgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Novelas",GLOBO ON
-http://nitidez.pro:80/Marcio/123456/955
-#EXTINF:-1 tvg-id="" tvg-name="DSTV PIPOCA" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iLRWULgL-OBuL8fU8HBO0QHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Entretenimento",DSTV PIPOCA
-http://nitidez.pro:80/Marcio/123456/930
- 
-#EXTINF:-1 tvg-id="" tvg-name="KANUCA TV " tvg-logo="https://imagedelivery.net/TzloxitwaKYvw0NcMzksfQ/angorussia.com/2023/08/img-4369.jpeg/w=9999" group-title="Animação",KANUCA TV 
-http://nitidez.pro:80/Marcio/123456/272859
-#EXTINF:-1 tvg-id="" tvg-name="ZAP NOVELAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzeKw-_Wc93ApIm2ckaXZI8sxbzGaTdfTl9fnYGNpZ1E8hiIvXCTKPMo9ekE4u7kx7E34&usqp=CAU" group-title="Novelas",ZAP NOVELAS HD
-http://nitidez.pro:80/Marcio/123456/926
-#EXTINF:-1 tvg-id="" tvg-name="SBT Novelas" tvg-logo="https://pbs.twimg.com/media/DnaE7vJV4AAWTtV.jpg" group-title="Novelas",SBT Novelas
-http://nitidez.pro:80/Marcio/123456/274282
-#EXTINF:-1 tvg-id="" tvg-name="Globoplay Novelas" tvg-logo="https://voxnews.com.br/wp-content/uploads/2025/05/image001-31.png" group-title="Novelas",Globoplay Novelas
-http://nitidez.pro:80/Marcio/123456/274287
-#EXTINF:-1 tvg-id="" tvg-name="Sic Novelas" tvg-logo="https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_chqvbxry/width/0/height/0/quality/85" group-title="Novelas",Sic Novelas
-http://nitidez.pro:80/Marcio/123456/303138
-#EXTINF:-1 tvg-id="TLN.mz" tvg-name="TL NOVELAS P" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.0op1VUBIt2LXU_nzNLPZLwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3 " group-title="Novelas",TL NOVELAS P
-http://nitidez.pro:80/Marcio/123456/931
-#EXTINF:-1 tvg-id="TNT NOVELAS.br" tvg-name="TNT Novelas HD" tvg-logo="https://tv.faster.net.br/logos/TNTNovelas.png" group-title="Novelas",TNT Novelas HD
-http://nitidez.pro:80/Marcio/123456/948
-#EXTINF:-1 tvg-id="TLNovelas.mz" tvg-name="TL NOVELAS NETWORK PT" tvg-logo="" group-title="Novelas",TL NOVELAS NETWORK PT
-http://nitidez.pro:80/Marcio/123456/942
-#EXTINF:-1 tvg-id="TNT NOVELAS.br" tvg-name="TNT NOVELAS" tvg-logo="https://pbs.twimg.com/media/FvjssXgWcAEIGZS.jpg" group-title="Novelas",TNT NOVELAS
-http://nitidez.pro:80/Marcio/123456/274288
-#EXTINF:-1 tvg-id="Telemundo.za" tvg-name="TELEMUNDO" tvg-logo="" group-title="Novelas",TELEMUNDO
-http://nitidez.pro:80/Marcio/123456/934
-#EXTINF:-1 tvg-id="" tvg-name="TELA BRASIL" tvg-logo="https://static.wixstatic.com/media/c66e37_aa372b2b7a8b4cc29d5095b5e3ba1e37~mv2.png/v1/fit/w_2500,h_1330,al_c/c66e37_aa372b2b7a8b4cc29d5095b5e3ba1e37~mv2.png" group-title="Entretenimento",TELA BRASIL
-http://nitidez.pro:80/Marcio/123456/946
-#EXTINF:-1 tvg-id="" tvg-name="NOVELISIMA" tvg-logo="https://nov.vod.immergo.tv/nov/uploaded/0d553227-72ef-48e6-8f95-4917622782a7.png" group-title="Novelas",NOVELISIMA
-http://nitidez.pro:80/Marcio/123456/928
-#EXTINF:-1 tvg-id="" tvg-name="BANDA TV" tvg-logo="" group-title="Entretenimento",BANDA TV
-http://nitidez.pro:80/Marcio/123456/927
-#EXTINF:-1 tvg-id="" tvg-name="BLAST" tvg-logo="https://canalblast.com/wp-content/uploads/2024/09/cropped-Blast_for_ico.webp" group-title="Filmes",BLAST(SEM SOM)
-http://nitidez.pro:80/Marcio/123456/923
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO HD" tvg-logo="https://telaviva.com.br/wp-content/uploads/2015/05/Globo-Internacional-HD-2015_lettering_vertical_azul.jpg" group-title="Novelas",GLOBO HD (SEM SOM)
-http://nitidez.pro:80/Marcio/123456/918
-#EXTINF:-1 tvg-id="My Channel Africa (P).mz" tvg-name="MY CHANNEL AFRICA" tvg-logo="" group-title="Música",MY CHANNEL AFRICA
-http://nitidez.pro:80/Marcio/123456/917
-#EXTINF:-1 tvg-id="" tvg-name="MUZANGALA TV" tvg-logo="https://muzangala.tv/wp-content/uploads/2022/08/LOGO_MUZANGALA_TV_.png" group-title="Música",MUZANGALA TV
-http://nitidez.pro:80/Marcio/123456/951
-#EXTINF:-1 tvg-id="BOMSOM.pt" tvg-name="BOM SOM HD " tvg-logo="https://yt3.googleusercontent.com/dVvJ6gx-oNQUHiMa_dy3pv0TrOAjpaPLe6DEKhd-6u9XU3avoZKIWY8NEwZmxEfUR6ebd4xU=s900-c-k-c0x00ffffff-no-rj" group-title="Música",BOM SOM HD 
-http://nitidez.pro:80/Marcio/123456/272868
-#EXTINF:-1 tvg-id="" tvg-name="KK TV Angola " tvg-logo="https://tse3.mm.bing.net/th/id/OIP.4YcIRqabuFDHqdQVccNZUQHaF5?w=768&h=612&rs=1&pid=ImgDetMain&o=7&rm=3https://tse3.mm.bing.net/th/id/OIP.4YcIRqabuFDHqdQVccNZUQHaF5?w=768&h=612&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Religioso",KK TV Angola 
-http://nitidez.pro:80/Marcio/123456/286054
-#EXTINF:-1 tvg-id="" tvg-name="STAR MUNDO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis3sZSPlAdcUKxHWiTsgCJto3cGnUTsXTt1BO0B36eiHNYVRWSS3upovCoH8lN7QDyejpWb4BZT6hciRoO2eQaxxTN8akbZqmaf7pHvdVHCG8Hisgd3boBrge6BrD2OwomgvevanGM-KB50L3ZCDCBT-EjFgY27RygOh993GOwlKTWeQ1IiAteK4gCfUpJ/s16000-rw/Starmundoangola.jpg" group-title="Filmes",STAR MUNDO
-http://nitidez.pro:80/Marcio/123456/943
-#EXTINF:-1 tvg-id="Globo HD.pt" tvg-name="Tv Globo" tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2025/11/23/374138483-tvglobo2021verticalcolorsvg.png" group-title="Novelas",Tv Globo
-http://nitidez.pro:80/Marcio/123456/289645
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/4f467f202309385.6683fb710a57d.png" group-title="Entretenimento",SBT HD
-http://nitidez.pro:80/Marcio/123456/274285
-#EXTINF:-1 tvg-id="" tvg-name="SBT Kids+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/SBTKids2025_hz.png/revision/latest?cb=20251213160304" group-title="Animação",SBT Kids+
-http://nitidez.pro:80/Marcio/123456/274283
-#EXTINF:-1 tvg-id="Dizi.pt" tvg-name="DIZI HD " tvg-logo="https://dizi.com/wp-content/uploads/2020/07/cropped-timeless-dizi-channel-without-logo-1.png" group-title="Novelas",DIZI HD 
-http://nitidez.pro:80/Marcio/123456/272861
-#EXTINF:-1 tvg-id="KIX.za" tvg-name="KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="Filmes",KIX
-http://nitidez.pro:80/Marcio/123456/290185
-#EXTINF:-1 tvg-id="" tvg-name="PANDA KIDS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAtZ0kazUvquxFOFLR44cP4h84CBHV-kQ72A&s" group-title="Animação",PANDA KIDS HD
-http://nitidez.pro:80/Marcio/123456/272864
-#EXTINF:-1 tvg-id="" tvg-name="Angofilmes 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyLfZQ67nvhkumn-bfkCjFsmtBsZ01sNGfxg&s" group-title="Filmes",Angofilmes 24/7
-http://nitidez.pro:80/Marcio/123456/286017
-#EXTINF:-1 tvg-id="" tvg-name="Windeck 24/7" tvg-logo="https://photos.tf1.fr/220/110/logo-programme-739bb0-c0357d-0@3x.png" group-title="Filmes",Windeck 24/7
-http://nitidez.pro:80/Marcio/123456/272851
-#EXTINF:-1 tvg-id="" tvg-name="Ukombe Tv" tvg-logo="https://i.ibb.co/TDDfMcYG/UKUMBE-TV.png" group-title="Outro",Ukombe Tv
-http://nitidez.pro:80/Marcio/123456/272238
-#EXTINF:-1 tvg-id="" tvg-name="Ocissungo Tarrachinha" tvg-logo="https://i.ibb.co/v6ZPSLsP/ocissungo.png" group-title="Música",Ocissungo Tarrachinha
-http://nitidez.pro:80/Marcio/123456/272236
-#EXTINF:-1 tvg-id="" tvg-name="Ocissungo Kuduro" tvg-logo="https://i.ibb.co/8wh8XMF/ocissungo-kuduro.png" group-title="Música",Ocissungo Kuduro
-http://nitidez.pro:80/Marcio/123456/272235
-#EXTINF:-1 tvg-id="" tvg-name="Ocissungo Hip Hop" tvg-logo="https://i.ibb.co/r2gr9mPb/ocissungo-hip-hop.png" group-title="Música",Ocissungo Hip Hop
-http://nitidez.pro:80/Marcio/123456/272233
-#EXTINF:-1 tvg-id="" tvg-name="Ocissungo Gospel" tvg-logo="https://i.ibb.co/q3z7wTZ8/ocissungo-GOSPEL.png" group-title="Música",Ocissungo Gospel
-http://nitidez.pro:80/Marcio/123456/272232
-#EXTINF:-1 tvg-id="" tvg-name="Ocissungo Semba" tvg-logo="https://i.ibb.co/fGnYfhSy/semba.png" group-title="Música",Ocissungo Semba
-http://nitidez.pro:80/Marcio/123456/272231
-
-#EXTINF:-1 tvg-id="" tvg-name="Bomcomix Channel" tvg-logo="https://yt3.googleusercontent.com/6ACvJGAGdVvgpImcz_oDK5poAR8JU0jDn2eB0B96FaiUcMCP90HpieXiK5Ziz6_ZD0lQ0I6vU2s=s900-c-k-c0x00ffffff-no-rj" group-title="Animação",Bomcomix Channel
-http://nitidez.pro:80/Marcio/123456/297491
-#EXTINF:-1 tvg-id="" tvg-name="FAF Replay " tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/federacao-angolana-de-futebol-logo.png" group-title="Desporto",FAF Replay 
-http://nitidez.pro:80/Marcio/123456/286021
-#EXTINF:-1 tvg-id="" tvg-name="Unitel Estrelas ao palco 24/7" tvg-logo="https://www.verangola.net/va/images/cms-image-000014892.jpg" group-title="Entretenimento",Unitel Estrelas ao palco 24/7
-http://nitidez.pro:80/Marcio/123456/286020
-#EXTINF:-1 tvg-id="" tvg-name="Unitel NetShows 24/7" tvg-logo="https://i0.wp.com/marcasemaccao.com/meawp52024/2024/07/UNITEL-Marca-Presenca-na-FILDA-2024.png" group-title="Música",Unitel NetShows 24/7
-http://nitidez.pro:80/Marcio/123456/304078
-#EXTINF:-1 tvg-id="" tvg-name="Conversas no Quintal 24/7" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/15240_37055_18074.jpg?amp;w=160" group-title="FILMES E SERIES",Conversas no Quintal 24/7
-http://nitidez.pro:80/Marcio/123456/286019
-#EXTINF:-1 tvg-id="" tvg-name="Gilmario Vemba 24/7" tvg-logo="https://powerlist100.bantumen.com/wp-content/uploads/2022/12/Gilmario-Vemba-.jpg" group-title="Filmes",Gilmario Vemba 24/7
-http://nitidez.pro:80/Marcio/123456/296444
-#EXTINF:-1 tvg-id="" tvg-name="Menino Justo Decimo 24/7" tvg-logo="https://thumbs.dreamstime.com/b/angola-sign-angola-sign-round-country-logo-flag-angola-vector-illustration-168860316.jpg" group-title="Animação",Menino Justo Decimo 24/7
-http://nitidez.pro:80/Marcio/123456/289491
-#EXTINF:-1 tvg-id="" tvg-name="PAPANGULO 24/7" tvg-logo="https://www.toonpool.com/user/4741/files/papa_e_chico_caxico_537145.jpg" group-title="Filmes",PAPANGULO 24/7
-http://nitidez.pro:80/Marcio/123456/286018
-#EXTINF:-1 tvg-id="" tvg-name="Na Lente 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYZxykij7Tpe6sVZevsZw55roEi2Emp7yuA&s" group-title="Outro",Na Lente 24/7
-http://nitidez.pro:80/Marcio/123456/289644
-#EXTINF:-1 tvg-id="" tvg-name="SHOW 50 ANOS 24/7" tvg-logo="https://c2a.portais.gov.ao/uploads/ANGOLA_50_ANOS_Logotipo_Positivo_2cores_Vertical_44423508c5.jpg" group-title="Outro",SHOW 50 ANOS 24/7
-http://nitidez.pro:80/Marcio/123456/286016
-#EXTINF:-1 tvg-id="" tvg-name="FAB Replay" tvg-logo="https://prodesporto.com/wp-content/uploads/2024/09/FAB-eFIBA.jpg" group-title="Desporto",FAB Replay
-http://nitidez.pro:80/Marcio/123456/286007
-
- 
-
-#EXTINF:-1 tvg-chno="48" cuid="60" tvg-name="Euronews 🇵🇹" tvg-id="Euronews.pt" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/euronews.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",Euronews 🇵🇹
+#EXTINF:-1 tvg-chno="48" cuid="60" tvg-name="Euronews 🇵🇹" tvg-id="Euronews.pt" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/euronews.png" group-title="📰 Noticias",Euronews 🇵🇹
 https://4a5f9ca4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFfRXVyb25ld3NQb3J0dWd1ZXNfSExT/playlist.m3u8?ads.wurl_channel=1171&ads.wurl_name=EuronewsPortugues&ads.coppa=0&ads.device_id=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=7794
 
-#EXTINF:-1 tvg-chno="50" cuid="62" tvg-name="Record News 🇧🇷" tvg-id="RECORDNEWS" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/RecordNew.webp" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",Record News 🇧🇷
+#EXTINF:-1 tvg-chno="50" cuid="62" tvg-name="Record News 🇧🇷" tvg-id="RECORDNEWS" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/RecordNew.webp" group-title="📰 Noticias",Record News 🇧🇷
 https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8?wowzasessionid=@iprtlk
-https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-dash/recordnews.mpd
 
-#EXTINF:-1 tvg-chno="50" cuid="75" tvg-name="SBT News 🇧🇷" tvg-id="" tvg-logo="https://i.imgur.com/LnApLKd.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",SBT News 🇧🇷
+#EXTINF:-1 tvg-chno="50" cuid="75" tvg-name="SBT News 🇧🇷" tvg-id="" tvg-logo="https://i.imgur.com/LnApLKd.png" group-title="📰 Noticias",SBT News 🇧🇷
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?wowzasessionid=@iprtlk
 
-#EXTINF:-1 tvg-chno="51" cuid="63" tvg-name="CNN Brasil 🇧🇷" tvg-id="CNNBRASIL" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnbr.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Brasil 🇧🇷
+#EXTINF:-1 tvg-chno="51" cuid="63" tvg-name="CNN Brasil 🇧🇷" tvg-id="CNNBRASIL" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnbr.png" group-title="📰 Noticias",CNN Brasil 🇧🇷
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8?wowzasessionid=@iprtlk
 
-#EXTINF:-1 tvg-chno="51" cuid="63" tvg-name="CNN Brasil 🇧🇷" tvg-id="CNNBRASIL" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnbr.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Brasil 🇧🇷
-https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/97d678e115854c73b5bfaf87c2d43956/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="52" cuid="64" tvg-name="CNN Money 🇧🇷" tvg-id="CNNBRASILMONEY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKV7KXWk2M9BZzGpmLwjLaEu3r0Khx_nsfgQ&s" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Money 🇧🇷
+#EXTINF:-1 tvg-chno="52" cuid="64" tvg-name="CNN Money 🇧🇷" tvg-id="CNNBRASILMONEY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKV7KXWk2M9BZzGpmLwjLaEu3r0Khx_nsfgQ&s" group-title="📰 Noticias",CNN Money 🇧🇷
 https://fast-channels.b-cdn.net/9978b7063e297d84e1cd5f21af3a88b1/cnnmoney/aovivo_abr/playlist.m3u8?wowzasessionid=@iprtlk
 
-#EXTINF:-1 tvg-chno="53" cuid="65" tvg-name="New Brasil" tvg-id="New.Brasil.pt" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",New Brasil 🇧🇷
+#EXTINF:-1 tvg-chno="53" cuid="65" tvg-name="New Brasil 🇧🇷" tvg-id="New.Brasil.pt" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-title="📰 Noticias",New Brasil 🇧🇷
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8?wowzasessionid=@iprtlk
 
-#EXTINF:-1 tvg-chno="54" cuid="67" tvg-name="JP News 🇧🇷" tvg-id="6317ba014d4d040007227f72" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",JP News 🇧🇷
+#EXTINF:-1 tvg-chno="54" cuid="67" tvg-name="JP News 🇧🇷" tvg-id="6317ba014d4d040007227f72" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/colorLogoPNG.png" group-title="📰 Noticias",JP News 🇧🇷
 https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
 
-#EXTINF:-1 tvg-chno="55" cuid="68" tvg-name="BM&C News 🇧🇷" tvg-id="666c9c60a7efd40008f552f0" tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",BM&C News 🇧🇷
+#EXTINF:-1 tvg-chno="55" cuid="68" tvg-name="BM&C News 🇧🇷" tvg-id="666c9c60a7efd40008f552f0" tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/colorLogoPNG.png" group-title="📰 Noticias",BM&C News 🇧🇷
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 
-#EXTINF:-1 tvg-chno="56" cuid="69" tvg-name="Times Brasil 🇧🇷" tvg-id="TIMESCNBC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/times-brasil-cnbc-br.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",Times Brasil 🇧🇷
+#EXTINF:-1 tvg-chno="56" cuid="69" tvg-name="Times Brasil 🇧🇷" tvg-id="TIMESCNBC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/times-brasil-cnbc-br.png" group-title="📰 Noticias",Times Brasil 🇧🇷
 https://video01.soultv.com.br/timesbrasil/timesbrasil/playlist.m3u8?wowzasessionid=@iprtlk
-https://f593663c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVGltZXNCcmFzaWxsaWNlbmNpYWRvZXhjbHVzaXZvQ05CQ19ITFM/playlist.m3u8?wowzasessionid=@iprtlk=
 
+# ============================================
+# 🎬 ENTRETENIMENTO GERAL
+# ============================================
 
+#EXTINF:-1 tvg-id="TV Zimbo.pt" tvg-name="TV ZIMBO" tvg-logo="https://i.imgur.com/SFD8CBh.png" group-title="🎬 Entretenimento",TV Zimbo
+http://nitidez.pro:80/Marcio/123456/957
 
- 
+#EXTINF:-1 tvg-id="ZAP Viva HD.pt" tvg-name="ZAP VIVA INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" group-title="🎬 Entretenimento",ZAP VIVA INTERNACIONAL
+http://nitidez.pro:80/Marcio/123456/324885
 
-#EXTINF:-1 tvg-chno="" cuid="1600" tvg-name="Cazétv" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Cazetv 🇧🇷⚽️🎾🏐
-#EXTGRP:Sports 🇧🇷;Ligue 1⚽️;Bundesliga⚽️
+#EXTINF:-1 tvg-id="" tvg-name="GIRASSOL TV" tvg-logo="https://redegirassol.com/abuploads/2023/02/TV-Girassol.png=" group-title="🎬 Entretenimento",GIRASSOL TV
+http://nitidez.pro:80/Marcio/123456/945
+
+#EXTINF:-1 tvg-id="" tvg-name="TELA BRASIL" tvg-logo="https://static.wixstatic.com/media/c66e37_aa372b2b7a8b4cc29d5095b5e3ba1e37~mv2.png/v1/fit/w_2500,h_1330,al_c/c66e37_aa372b2b7a8b4cc29d5095b5e3ba1e37~mv2.png" group-title="🎬 Entretenimento",TELA BRASIL
+http://nitidez.pro:80/Marcio/123456/946
+
+#EXTINF:-1 tvg-id="" tvg-name="BANDA TV" tvg-logo="" group-title="🎬 Entretenimento",BANDA TV
+http://nitidez.pro:80/Marcio/123456/927
+
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/4f467f202309385.6683fb710a57d.png" group-title="🎬 Entretenimento",SBT HD
+http://nitidez.pro:80/Marcio/123456/274285
+
+#EXTINF:-1 tvg-id="" tvg-name="Unitel Estrelas ao palco 24/7" tvg-logo="https://www.verangola.net/va/images/cms-image-000014892.jpg" group-title="🎬 Entretenimento",Unitel Estrelas ao palco 24/7
+http://nitidez.pro:80/Marcio/123456/286020
+
+# ============================================
+# 📺 NOVELAS
+# ============================================
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ON" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.VgIqpgkHc5Pr2cxZ9YlZUgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="📺 Novelas",GLOBO ON
+http://nitidez.pro:80/Marcio/123456/955
+
+#EXTINF:-1 tvg-id="" tvg-name="ZAP NOVELAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzeKw-_Wc93ApIm2ckaXZI8sxbzGaTdfTl9fnYGNpZ1E8hiIvXCTKPMo9ekE4u7kx7E34&usqp=CAU" group-title="📺 Novelas",ZAP NOVELAS HD
+http://nitidez.pro:80/Marcio/123456/926
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT Novelas" tvg-logo="https://pbs.twimg.com/media/DnaE7vJV4AAWTtV.jpg" group-title="📺 Novelas",SBT Novelas
+http://nitidez.pro:80/Marcio/123456/274282
+
+#EXTINF:-1 tvg-id="" tvg-name="Globoplay Novelas" tvg-logo="https://voxnews.com.br/wp-content/uploads/2025/05/image001-31.png" group-title="📺 Novelas",Globoplay Novelas
+http://nitidez.pro:80/Marcio/123456/274287
+
+#EXTINF:-1 tvg-id="" tvg-name="Sic Novelas" tvg-logo="https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_chqvbxry/width/0/height/0/quality/85" group-title="📺 Novelas",Sic Novelas
+http://nitidez.pro:80/Marcio/123456/303138
+
+#EXTINF:-1 tvg-id="TLN.mz" tvg-name="TL NOVELAS P" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.0op1VUBIt2LXU_nzNLPZLwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3 " group-title="📺 Novelas",TL NOVELAS P
+http://nitidez.pro:80/Marcio/123456/931
+
+#EXTINF:-1 tvg-id="TNT NOVELAS.br" tvg-name="TNT Novelas HD" tvg-logo="https://tv.faster.net.br/logos/TNTNovelas.png" group-title="📺 Novelas",TNT Novelas HD
+http://nitidez.pro:80/Marcio/123456/948
+
+#EXTINF:-1 tvg-id="TLNovelas.mz" tvg-name="TL NOVELAS NETWORK PT" tvg-logo="" group-title="📺 Novelas",TL NOVELAS NETWORK PT
+http://nitidez.pro:80/Marcio/123456/942
+
+#EXTINF:-1 tvg-id="TNT NOVELAS.br" tvg-name="TNT NOVELAS" tvg-logo="https://pbs.twimg.com/media/FvjssXgWcAEIGZS.jpg" group-title="📺 Novelas",TNT NOVELAS
+http://nitidez.pro:80/Marcio/123456/274288
+
+#EXTINF:-1 tvg-id="Telemundo.za" tvg-name="TELEMUNDO" tvg-logo="" group-title="📺 Novelas",TELEMUNDO
+http://nitidez.pro:80/Marcio/123456/934
+
+#EXTINF:-1 tvg-id="" tvg-name="NOVELISIMA" tvg-logo="https://nov.vod.immergo.tv/nov/uploaded/0d553227-72ef-48e6-8f95-4917622782a7.png" group-title="📺 Novelas",NOVELISIMA
+http://nitidez.pro:80/Marcio/123456/928
+
+#EXTINF:-1 tvg-id="Globo HD.pt" tvg-name="Tv Globo" tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2025/11/23/374138483-tvglobo2021verticalcolorsvg.png" group-title="📺 Novelas",Tv Globo
+http://nitidez.pro:80/Marcio/123456/289645
+
+#EXTINF:-1 tvg-id="Dizi.pt" tvg-name="DIZI HD " tvg-logo="https://dizi.com/wp-content/uploads/2020/07/cropped-timeless-dizi-channel-without-logo-1.png" group-title="📺 Novelas",DIZI HD 
+http://nitidez.pro:80/Marcio/123456/272861
+
+# ============================================
+# 🎥 FILMES E SÉRIES
+# ============================================
+
+#EXTINF:-1 tvg-id="" tvg-name="BLAST" tvg-logo="https://canalblast.com/wp-content/uploads/2024/09/cropped-Blast_for_ico.webp" group-title="🎥 Filmes",BLAST(SEM SOM)
+http://nitidez.pro:80/Marcio/123456/923
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR MUNDO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis3sZSPlAdcUKxHWiTsgCJto3cGnUTsXTt1BO0B36eiHNYVRWSS3upovCoH8lN7QDyejpWb4BZT6hciRoO2eQaxxTN8akbZqmaf7pHvdVHCG8Hisgd3boBrge6BrD2OwomgvevanGM-KB50L3ZCDCBT-EjFgY27RygOh993GOwlKTWeQ1IiAteK4gCfUpJ/s16000-rw/Starmundoangola.jpg" group-title="🎥 Filmes",STAR MUNDO
+http://nitidez.pro:80/Marcio/123456/943
+
+#EXTINF:-1 tvg-id="KIX.za" tvg-name="KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="🎥 Filmes",KIX
+http://nitidez.pro:80/Marcio/123456/290185
+
+#EXTINF:-1 tvg-id="" tvg-name="Angofilmes 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyLfZQ67nvhkumn-bfkCjFsmtBsZ01sNGfxg&s" group-title="🎥 Filmes",Angofilmes 24/7
+http://nitidez.pro:80/Marcio/123456/286017
+
+#EXTINF:-1 tvg-id="" tvg-name="Windeck 24/7" tvg-logo="https://photos.tf1.fr/220/110/logo-programme-739bb0-c0357d-0@3x.png" group-title="🎥 Filmes",Windeck 24/7
+http://nitidez.pro:80/Marcio/123456/272851
+
+#EXTINF:-1 tvg-id="" tvg-name="Gilmario Vemba 24/7" tvg-logo="https://powerlist100.bantumen.com/wp-content/uploads/2022/12/Gilmario-Vemba-.jpg" group-title="🎥 Filmes",Gilmario Vemba 24/7
+http://nitidez.pro:80/Marcio/123456/296444
+
+#EXTINF:-1 tvg-id="" tvg-name="PAPANGULO 24/7" tvg-logo="https://www.toonpool.com/user/4741/files/papa_e_chico_caxico_537145.jpg" group-title="🎥 Filmes",PAPANGULO 24/7
+http://nitidez.pro:80/Marcio/123456/286018
+
+#EXTINF:-1 tvg-id="" tvg-name="Conversas no Quintal 24/7" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/15240_37055_18074.jpg?amp;w=160" group-title="🎥 Filmes e Séries",Conversas no Quintal 24/7
+http://nitidez.pro:80/Marcio/123456/286019
+
+# ============================================
+# 🎵 MÚSICA
+# ============================================
+
+#EXTINF:-1 tvg-id="My Channel Africa (P).mz" tvg-name="MY CHANNEL AFRICA" tvg-logo="" group-title="🎵 Música",MY CHANNEL AFRICA
+http://nitidez.pro:80/Marcio/123456/917
+
+#EXTINF:-1 tvg-id="" tvg-name="MUZANGALA TV" tvg-logo="https://muzangala.tv/wp-content/uploads/2022/08/LOGO_MUZANGALA_TV_.png" group-title="🎵 Música",MUZANGALA TV
+http://nitidez.pro:80/Marcio/123456/951
+
+#EXTINF:-1 tvg-id="BOMSOM.pt" tvg-name="BOM SOM HD " tvg-logo="https://yt3.googleusercontent.com/dVvJ6gx-oNQUHiMa_dy3pv0TrOAjpaPLe6DEKhd-6u9XU3avoZKIWY8NEwZmxEfUR6ebd4xU=s900-c-k-c0x00ffffff-no-rj" group-title="🎵 Música",BOM SOM HD 
+http://nitidez.pro:80/Marcio/123456/272868
+
+#EXTINF:-1 tvg-id="" tvg-name="Ocissungo Tarrachinha" tvg-logo="https://i.ibb.co/v6ZPSLsP/ocissungo.png" group-title="🎵 Música",Ocissungo Tarrachinha
+http://nitidez.pro:80/Marcio/123456/272238
+
+#EXTINF:-1 tvg-id="" tvg-name="Ocissungo Kuduro" tvg-logo="https://i.ibb.co/8wh8XMF/ocissungo-kuduro.png" group-title="🎵 Música",Ocissungo Kuduro
+http://nitidez.pro:80/Marcio/123456/272235
+
+#EXTINF:-1 tvg-id="" tvg-name="Ocissungo Hip Hop" tvg-logo="https://i.ibb.co/r2gr9mPb/ocissungo-hip-hop.png" group-title="🎵 Música",Ocissungo Hip Hop
+http://nitidez.pro:80/Marcio/123456/272233
+
+#EXTINF:-1 tvg-id="" tvg-name="Ocissungo Gospel" tvg-logo="https://i.ibb.co/q3z7wTZ8/ocissungo-GOSPEL.png" group-title="🎵 Música",Ocissungo Gospel
+http://nitidez.pro:80/Marcio/123456/272232
+
+#EXTINF:-1 tvg-id="" tvg-name="Ocissungo Semba" tvg-logo="https://i.ibb.co/fGnYfhSy/semba.png" group-title="🎵 Música",Ocissungo Semba
+http://nitidez.pro:80/Marcio/123456/272231
+
+#EXTINF:-1 tvg-id="" tvg-name="Unitel NetShows 24/7" tvg-logo="https://i0.wp.com/marcasemaccao.com/meawp52024/2024/07/UNITEL-Marca-Presenca-na-FILDA-2024.png" group-title="🎵 Música",Unitel NetShows 24/7
+http://nitidez.pro:80/Marcio/123456/304078
+
+# ============================================
+# 👶 INFANTIL E ANIMAÇÃO
+# ============================================
+
+#EXTINF:-1 tvg-id="" tvg-name="KANUCA TV " tvg-logo="https://imagedelivery.net/TzloxitwaKYvw0NcMzksfQ/angorussia.com/2023/08/img-4369.jpeg/w=9999" group-title="👶 Infantil",KANUCA TV 
+http://nitidez.pro:80/Marcio/123456/272859
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT Kids+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/SBTKids2025_hz.png/revision/latest?cb=20251213160304" group-title="👶 Infantil",SBT Kids+
+http://nitidez.pro:80/Marcio/123456/274283
+
+#EXTINF:-1 tvg-id="" tvg-name="PANDA KIDS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAtZ0kazUvquxFOFLR44cP4h84CBHV-kQ72A&s" group-title="👶 Infantil",PANDA KIDS HD
+http://nitidez.pro:80/Marcio/123456/272864
+
+#EXTINF:-1 tvg-id="" tvg-name="Bomcomix Channel" tvg-logo="https://yt3.googleusercontent.com/6ACvJGAGdVvgpImcz_oDK5poAR8JU0jDn2eB0B96FaiUcMCP90HpieXiK5Ziz6_ZD0lQ0I6vU2s=s900-c-k-c0x00ffffff-no-rj" group-title="👶 Infantil",Bomcomix Channel
+http://nitidez.pro:80/Marcio/123456/297491
+
+#EXTINF:-1 tvg-id="" tvg-name="Menino Justo Decimo 24/7" tvg-logo="https://thumbs.dreamstime.com/b/angola-sign-angola-sign-round-country-logo-flag-angola-vector-illustration-168860316.jpg" group-title="👶 Infantil",Menino Justo Decimo 24/7
+http://nitidez.pro:80/Marcio/123456/289491
+
+# ============================================
+# ⚽ DESPORTO
+# ============================================
+
+#EXTINF:-1 tvg-id="" tvg-name="FAF Replay " tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/federacao-angolana-de-futebol-logo.png" group-title="⚽ Desporto",FAF Replay 
+http://nitidez.pro:80/Marcio/123456/286021
+
+#EXTINF:-1 tvg-id="" tvg-name="FAB Replay" tvg-logo="https://prodesporto.com/wp-content/uploads/2024/09/FAB-eFIBA.jpg" group-title="⚽ Desporto",FAB Replay
+http://nitidez.pro:80/Marcio/123456/286007
+
+#EXTINF:-1 tvg-chno="" cuid="1600" tvg-name="Cazétv" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp" group-title="⚽ Desporto",Cazetv 🇧🇷⚽️🎾🏐
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8?wowzasessionid=@iprtlk
 
-#EXTINF:-1 tvg-chno="" cuid="1312" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_sports_golazo_network._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",CBS Sports Golazo 🇺🇸
-#EXTGRP:All Sports 🌎;Serie A⚽️;champions league⚽️;Europa League⚽️
+#EXTINF:-1 tvg-chno="" cuid="1312" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_sports_golazo_network._SL170_FMpng_.png" group-title="⚽ Desporto",CBS Sports Golazo 🇺🇸
 https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8?imafw__fw_app_bundle=%5BAPP+ID%5D&imafw__fw_did=%5Bidtype%3AdeviceID%5D&imafw__fw_is_lat=%5BLIMITED+AD+TRACKING%5D&imafw__fw_us_privacy=%5BCCPA+STRING%5D&imafw__fw_vcid2=%5Bunique_identifier%5D&imafw_csid=%5BSITE+SECTION%5D&is_lat=%5BLIMITED+AD+TRACKING%5D
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd/?X-Plex-Token=xePfG98DiSxDoEPoY91x
 
-#EXTINF:-1 tvg-chno="" cuid="1800" tvg-name="L'Equipe 1 🇫🇷" tvg-id="La.chaine.l’Équipe.fr" tvg-logo="https://logo.m3uassets.com/lequipe.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎;Rugby&NFL🏈🏉",la chaine L'Equipe 🇫🇷
+#EXTINF:-1 tvg-chno="" cuid="1800" tvg-name="L'Equipe 1 🇫🇷" tvg-id="La.chaine.l’Équipe.fr" tvg-logo="https://logo.m3uassets.com/lequipe.png" group-title="⚽ Desporto",la chaine L'Equipe 🇫🇷
 https://jmp2.uk/stvp-FR200016Y5
-https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="1410" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Teledeporte.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",tdp 🇪🇸
-#EXTGRP:All Sports 🌎
+#EXTINF:-1 tvg-chno="" cuid="1410" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Teledeporte.webp" group-title="⚽ Desporto",tdp 🇪🇸
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
-https://jmp2.uk/stvp-ESBC410000577
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/18bf9987-49ab-4c51-bb94-c568efa51db7?height=auto&width=512&croppingPoint=&version=1&type=png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Goal Zone
+#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/18bf9987-49ab-4c51-bb94-c568efa51db7?height=auto&width=512&croppingPoint=&version=1&type=png" group-title="⚽ Desporto",Goal Zone
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 
- 
-
-#EXTINF:-1 tvg-chno="" cuid="1810" tvg-name="beIN.SPORTS.XTRA" tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-xtra-us.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports Xtra 🇬🇧🇲🇽
-#EXTGRP:All Sports 🌎
+#EXTINF:-1 tvg-chno="" cuid="1810" tvg-name="beIN.SPORTS.XTRA" tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-xtra-us.png" group-title="⚽ Desporto",Bein Sports Xtra 🇬🇧🇲🇽
 https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
-https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785&ads._fw_ifa_type=&ads._fw_did=effb0e3f-354d-4967-bec6-3fe0a91c16ab&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=BeInSportsESP&ads.csid=xumo_web_BeInSportsESP_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=es&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2642&ads.xumo_contentName=BeInSportsESP&ads.xumo_providerId=2642&ads.xumo_providerName=BeInSportsESP&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991785&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
-
-#EXTINF:-1 tvg-chno="" cuid="1811" tvg-name="beIN.SPORTS.XTRA n" tvg-id="plex.tv.beIN.Sports.Xtra.en.Español.plex" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/beinSportsn.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sport Xtra ñ 🇺🇸🇲🇽
-#EXTGRP:All Sports 🌎
+#EXTINF:-1 tvg-chno="" cuid="1811" tvg-name="beIN.SPORTS.XTRA n" tvg-id="plex.tv.beIN.Sports.Xtra.en.Español.plex" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/beinSportsn.webp" group-title="⚽ Desporto",Bein Sport Xtra ñ 🇺🇸🇲🇽
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785
-https://jmp2.uk/stvp-US2700004DX
-https://live-manifest.production-public.tubi.io/live/6cd31e43-d255-4ab4-b065-7f28bd541047/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="1818" tvg-name="Bein Sports 1" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports 1 🇹🇷
-#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;champions league⚽️
+#EXTINF:-1 tvg-chno="" cuid="1818" tvg-name="Bein Sports 1" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="⚽ Desporto",Bein Sports 1 🇹🇷
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-https://biraz.1386503.xyz/checklist/androstreamlivebs1.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="1819" tvg-name="Bein Sports 2" tvg-id="Beinsports.2.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports 2 🇹🇷
-#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;champions league⚽️
+#EXTINF:-1 tvg-chno="" cuid="1819" tvg-name="Bein Sports 2" tvg-id="Beinsports.2.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="⚽ Desporto",Bein Sports 2 🇹🇷
 https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="1820" tvg-name="Bein Sports 3" tvg-id="Beinsports.3.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports 3 🇹🇷
-#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Premier League⚽️;champions league⚽️
+#EXTINF:-1 tvg-chno="" cuid="1820" tvg-name="Bein Sports 3" tvg-id="Beinsports.3.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="⚽ Desporto",Bein Sports 3 🇹🇷
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="1821" tvg-name="Bein Sports 3" tvg-id="Beinsports.3.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports 3 🇹🇷
-#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Premier League⚽️
-https://biraz.1386503.xyz/checklist/androstreamlivebs3.m3u8
-
-#EXTINF:-1 tvg-chno="" cuid="1822" tvg-name="Bein Sports 4" tvg-id="Beinsports.4.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports 4 🇹🇷
-#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Ligue 1⚽️
+#EXTINF:-1 tvg-chno="" cuid="1822" tvg-name="Bein Sports 4" tvg-id="Beinsports.4.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="⚽ Desporto",Bein Sports 4 🇹🇷
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+
+# ============================================
+# ✝️ RELIGIOSO
+# ============================================
+
+#EXTINF:-1 tvg-id="" tvg-name="KK TV Angola " tvg-logo="https://tse3.mm.bing.net/th/id/OIP.4YcIRqabuFDHqdQVccNZUQHaF5?w=768&h=612&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="✝️ Religioso",KK TV Angola 
+http://nitidez.pro:80/Marcio/123456/286054
+
+# ============================================
+# 📺 OUTROS / TEMÁTICOS
+# ============================================
+
+#EXTINF:-1 tvg-id="" tvg-name="Ukombe Tv" tvg-logo="https://i.ibb.co/TDDfMcYG/UKUMBE-TV.png" group-title="📺 Outros",Ukombe Tv
+http://nitidez.pro:80/Marcio/123456/272238
+
+#EXTINF:-1 tvg-id="" tvg-name="Na Lente 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYZxykij7Tpe6sVZevsZw55roEi2Emp7yuA&s" group-title="📺 Outros",Na Lente 24/7
+http://nitidez.pro:80/Marcio/123456/289644
+
+#EXTINF:-1 tvg-id="" tvg-name="SHOW 50 ANOS 24/7" tvg-logo="https://c2a.portais.gov.ao/uploads/ANGOLA_50_ANOS_Logotipo_Positivo_2cores_Vertical_44423508c5.jpg" group-title="📺 Outros",SHOW 50 ANOS 24/7
+http://nitidez.pro:80/Marcio/123456/286016
+
+# ============================================
+# 🎭 ENTRETENIMENTO ANGOLANO
+# ============================================
+
+#EXTINF:-1 tvg-id="" tvg-name="KWENDA MAGIC" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.tYHTzi5J5K90wDFumFxHEQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="🎭 Angolano",KWENDA MAGIC
+http://nitidez.pro:80/Marcio/123456/937
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV PIPOCA" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iLRWULgL-OBuL8fU8HBO0QHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="🎭 Angolano",DSTV PIPOCA
+http://nitidez.pro:80/Marcio/123456/930
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO HD" tvg-logo="https://telaviva.com.br/wp-content/uploads/2015/05/Globo-Internacional-HD-2015_lettering_vertical_azul.jpg" group-title="🎭 Angolano",GLOBO HD (SEM SOM)
+http://nitidez.pro:80/Marcio/123456/918
