@@ -5,8 +5,7 @@ http://nitidez.pro:80/Marcio/123456/333592
 http://nitidez.pro:80/Marcio/123456/921
 #EXTINF:-1 tvg-id="" tvg-name="TPA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TPA2_2022.svg" group-title="ANGOLA",TPA 2 HD
 http://nitidez.pro:80/Marcio/123456/920
-#EXTINF:-1 tvg-id="TPA Notícias.pt" tvg-name="TPA NOTÍCIAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvS8w1_xsU8v5P-O_7N3nxa1FonYbMjJQOsw&s" group-title="ANGOLA",TPA NOTÍCIAS
-http://nitidez.pro:80/Marcio/123456/272862
+ 
 #EXTINF:-1 tvg-id="TV Zimbo.pt" tvg-name="TV ZIMBO" tvg-logo="https://i.imgur.com/SFD8CBh.png" group-title="General",TV Zimbo
 http://nitidez.pro:80/Marcio/123456/957
 
