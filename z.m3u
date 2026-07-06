@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/generate/JVDwzRJDcu.xml.gz,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz,https://github.com/iptv-org/epg/raw/9b331e6cfab19ad2f683b212aa079aac07fe72fe/sites/i.mjh.nz/i.mjh.nz_samsung.channels.xml,https://warningfm.github.io/x1/epg/guide.xml.gz" refresh="3600"
 
 #EXTINF:-1 tvg-id="" tvg-name="TPA 1 HD" tvg-logo="https://visualzink.com/wp-content/uploads/2024/11/TPA16.jpg" group-title="Noticias",TPA 1 HD
 http://nitidez.pro:80/Marcio/123456/921
