@@ -68,7 +68,7 @@ http://nitidez.pro:80/Marcio/123456/274285
 http://nitidez.pro:80/Marcio/123456/274283
 #EXTINF:-1 tvg-id="Dizi.pt" tvg-name="DIZI HD " tvg-logo="https://dizi.com/wp-content/uploads/2020/07/cropped-timeless-dizi-channel-without-logo-1.png" group-title="Novelas",DIZI HD 
 http://nitidez.pro:80/Marcio/123456/272861
-#EXTINF:-1 tvg-id="KIX.za" tvg-name="KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="Filmes",KIX
+#EXTINF:-1 tvg-id="KIX.za" tvg-name="KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="Cinema",KIX
 http://nitidez.pro:80/Marcio/123456/290185
 #EXTINF:-1 tvg-id="" tvg-name="PANDA KIDS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAtZ0kazUvquxFOFLR44cP4h84CBHV-kQ72A&s" group-title="Animação",PANDA KIDS HD
 http://nitidez.pro:80/Marcio/123456/272864
