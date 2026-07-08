@@ -46,7 +46,7 @@ http://nitidez.pro:80/Marcio/123456/946
 http://nitidez.pro:80/Marcio/123456/928
 #EXTINF:-1 tvg-id="" tvg-name="BANDA TV" tvg-logo="" group-title="Entretenimento",BANDA TV
 http://nitidez.pro:80/Marcio/123456/927
-#EXTINF:-1 tvg-id="" tvg-name="BLAST" tvg-logo="https://canalblast.com/wp-content/uploads/2024/09/cropped-Blast_for_ico.webp" group-title="Entretenimento",BLAST(SEM SOM)
+#EXTINF:-1 tvg-id="" tvg-name="BLAST" tvg-logo="https://canalblast.com/wp-content/uploads/2024/09/cropped-Blast_for_ico.webp" group-title="Cinema",BLAST(SEM SOM)
 http://nitidez.pro:80/Marcio/123456/923
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO HD" tvg-logo="https://telaviva.com.br/wp-content/uploads/2015/05/Globo-Internacional-HD-2015_lettering_vertical_azul.jpg" group-title="Novelas",GLOBO HD (SEM SOM)
 http://nitidez.pro:80/Marcio/123456/918
@@ -72,11 +72,11 @@ http://nitidez.pro:80/Marcio/123456/272861
 http://nitidez.pro:80/Marcio/123456/290185
 #EXTINF:-1 tvg-id="" tvg-name="PANDA KIDS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAtZ0kazUvquxFOFLR44cP4h84CBHV-kQ72A&s" group-title="Animação",PANDA KIDS HD
 http://nitidez.pro:80/Marcio/123456/272864
-#EXTINF:-1 tvg-id="" tvg-name="Angofilmes 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyLfZQ67nvhkumn-bfkCjFsmtBsZ01sNGfxg&s" group-title="Filmes",Angofilmes 24/7
+#EXTINF:-1 tvg-id="" tvg-name="Angofilmes 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyLfZQ67nvhkumn-bfkCjFsmtBsZ01sNGfxg&s" group-title="Cinema",Angofilmes 24/7
 http://nitidez.pro:80/Marcio/123456/286017
-#EXTINF:-1 tvg-id="" tvg-name="Windeck 24/7" tvg-logo="https://photos.tf1.fr/220/110/logo-programme-739bb0-c0357d-0@3x.png" group-title="Filmes",Windeck 24/7
+#EXTINF:-1 tvg-id="" tvg-name="Windeck 24/7" tvg-logo="https://photos.tf1.fr/220/110/logo-programme-739bb0-c0357d-0@3x.png" group-title="Cinema",Windeck 24/7
 http://nitidez.pro:80/Marcio/123456/272851
-#EXTINF:-1 tvg-id="" tvg-name="Ukombe Tv" tvg-logo="https://i.ibb.co/TDDfMcYG/UKUMBE-TV.png" group-title="Outro",Ukombe Tv
+#EXTINF:-1 tvg-id="" tvg-name="Ukombe Tv" tvg-logo="https://i.ibb.co/TDDfMcYG/UKUMBE-TV.png" group-title="Cinema",Ukombe Tv
 http://nitidez.pro:80/Marcio/123456/272238
 #EXTINF:-1 tvg-id="" tvg-name="Ocissungo Tarrachinha" tvg-logo="https://i.ibb.co/v6ZPSLsP/ocissungo.png" group-title="Música",Ocissungo Tarrachinha
 http://nitidez.pro:80/Marcio/123456/272236
@@ -99,11 +99,11 @@ http://nitidez.pro:80/Marcio/123456/286020
 http://nitidez.pro:80/Marcio/123456/304078
 #EXTINF:-1 tvg-id="" tvg-name="Conversas no Quintal 24/7" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/15240_37055_18074.jpg?amp;w=160" group-title="FILMES E SERIES",Conversas no Quintal 24/7
 http://nitidez.pro:80/Marcio/123456/286019
-#EXTINF:-1 tvg-id="" tvg-name="Gilmario Vemba 24/7" tvg-logo="https://powerlist100.bantumen.com/wp-content/uploads/2022/12/Gilmario-Vemba-.jpg" group-title="Filmes",Gilmario Vemba 24/7
+#EXTINF:-1 tvg-id="" tvg-name="Gilmario Vemba 24/7" tvg-logo="https://powerlist100.bantumen.com/wp-content/uploads/2022/12/Gilmario-Vemba-.jpg" group-title="Cinema",Gilmario Vemba 24/7
 http://nitidez.pro:80/Marcio/123456/296444
 #EXTINF:-1 tvg-id="" tvg-name="Menino Justo Decimo 24/7" tvg-logo="https://thumbs.dreamstime.com/b/angola-sign-angola-sign-round-country-logo-flag-angola-vector-illustration-168860316.jpg" group-title="Animação",Menino Justo Decimo 24/7
 http://nitidez.pro:80/Marcio/123456/289491
-#EXTINF:-1 tvg-id="" tvg-name="PAPANGULO 24/7" tvg-logo="https://www.toonpool.com/user/4741/files/papa_e_chico_caxico_537145.jpg" group-title="Filmes",PAPANGULO 24/7
+#EXTINF:-1 tvg-id="" tvg-name="PAPANGULO 24/7" tvg-logo="https://www.toonpool.com/user/4741/files/papa_e_chico_caxico_537145.jpg" group-title="Cinema",PAPANGULO 24/7
 http://nitidez.pro:80/Marcio/123456/286018
 #EXTINF:-1 tvg-id="" tvg-name="Na Lente 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYZxykij7Tpe6sVZevsZw55roEi2Emp7yuA&s" group-title="Outro",Na Lente 24/7
 http://nitidez.pro:80/Marcio/123456/289644
@@ -119,7 +119,6 @@ https://4a5f9ca4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYW
 
 #EXTINF:-1 tvg-chno="50" cuid="62" tvg-name="Record News 🇧🇷" tvg-id="RECORDNEWS" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/RecordNew.webp" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",Record News 🇧🇷
 https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8?wowzasessionid=@iprtlk
-https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-dash/recordnews.mpd
 
 #EXTINF:-1 tvg-chno="50" cuid="75" tvg-name="SBT News 🇧🇷" tvg-id="" tvg-logo="https://i.imgur.com/LnApLKd.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",SBT News 🇧🇷
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?wowzasessionid=@iprtlk
@@ -142,9 +141,7 @@ https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
 #EXTINF:-1 tvg-chno="55" cuid="68" tvg-name="BM&C News 🇧🇷" tvg-id="666c9c60a7efd40008f552f0" tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",BM&C News 🇧🇷
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 
-#EXTINF:-1 tvg-chno="56" cuid="69" tvg-name="Times Brasil 🇧🇷" tvg-id="TIMESCNBC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/times-brasil-cnbc-br.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",Times Brasil 🇧🇷
-https://video01.soultv.com.br/timesbrasil/timesbrasil/playlist.m3u8?wowzasessionid=@iprtlk
-https://f593663c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVGltZXNCcmFzaWxsaWNlbmNpYWRvZXhjbHVzaXZvQ05CQ19ITFM/playlist.m3u8?wowzasessionid=@iprtlk=
+
 
 
 
